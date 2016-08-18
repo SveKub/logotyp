@@ -1,2 +1,2 @@
-# logotyp
+# Logotyp
 Logotyp för Svekub
